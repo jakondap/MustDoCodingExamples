@@ -1,9 +1,9 @@
 package com.examples.array;
 
 public class ReverseSubArrayGrp {
-	//int arr []= {5,10,3,4,25,01,13};
+	int arr []= {5,10,3,4,25,01,13};
 	//int arr[] = {1,2,3,4,5};
-	int arr[] = {5,6,8,9};
+	//int arr[] = {5,6,8,9};
 	int loopCounter;
 	
 	public static void main(String[] args) {
